@@ -20,8 +20,4 @@
   <img src="https://skillicons.dev/icons?i=nuxt,vue,ts,js,nodejs,tailwind,docker,nginx,cloudflare,githubactions,linux,py&perline=12&theme=dark" alt="Tech stack"/>
 </p>
 
-### Featured project
-
-🎄 **[discord-bot-example](https://github.com/TheCooookie/discord-bot-example)**: open-source template for seasonal Discord events (advent calendars, collection games, leaderboards)
-
 ---
