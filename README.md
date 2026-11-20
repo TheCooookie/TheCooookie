@@ -20,4 +20,3 @@
   <img src="https://skillicons.dev/icons?i=nuxt,vue,ts,js,nodejs,tailwind,docker,nginx,cloudflare,githubactions,linux,py&perline=12&theme=dark" alt="Tech stack"/>
 </p>
 
----
