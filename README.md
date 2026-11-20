@@ -9,7 +9,7 @@
 
 ### About me
 
-- 🛩️ **5 years in the French Air & Space Force** as IT analyst, project manager and developer: modernizing legacy business apps and bridging users and dev teams
+- 🛩️ **7 years in the French Air & Space Force** as IT analyst, project manager and developer: modernizing legacy business apps and bridging users and dev teams
 - 🌐 **Volunteer tech lead at AAEEG**: I build and run the association's whole web ecosystem, from the website to the infrastructure
 - 🎮 Currently building **Talepixel**, a Hytale server project
 - 🗣️ French · English · Polish
