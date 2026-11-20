@@ -13,12 +13,11 @@
 - 🌐 **Tech lead (volunteer) at AAEEG** — main website (membership, voting, admin), discord bot, documentation wiki, OSINT/CTF platform, and the whole self-hosted infrastructure
 - 🎮 Currently building **Talepixel**, a Hytale server project, and the tooling around it
 - 🗣️ French · English · Polish
-- 💼 Open to new opportunities
 
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nuxt,vue,ts,js,nodejs,php,tailwind&theme=dark" alt="Frontend & backend"/>
+  <img src="https://skillicons.dev/icons?i=nuxt,vue,ts,js,nodejs,tailwind&theme=dark" alt="Frontend & backend"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,githubactions,linux,py,unity&theme=dark" alt="Infra & tooling"/>
 </p>
@@ -29,9 +28,8 @@
 | --- | --- |
 | 🎄 **[discord-bot-example](https://github.com/TheCooookie/discord-bot-example)** | Open-source framework for seasonal Discord events — advent calendars, collection games, leaderboards |
 
-### GitHub stats
+### GitHub activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheCooookie&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCooookie&layout=compact&hide_border=true&theme=github_dark" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=TheCooookie&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
 </p>
