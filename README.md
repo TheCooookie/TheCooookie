@@ -1,35 +1,31 @@
 <h1 align="center">Hi, I'm Michal 👋</h1>
 
 <p align="center">
-  Full-stack developer · Nuxt / TypeScript / Docker<br/>
-  I build web apps, tools for game communities, and the infrastructure behind them.
+  <b>Full-stack developer</b> who turns real-world needs into clean, reliable web applications.<br/>
+  Nuxt · TypeScript · Docker
 </p>
 
 ---
 
 ### About me
 
-- 🛩️ **5 years as an IT systems analyst, project manager and developer** in the French Air & Space Force — legacy software modernization, production deployments, acting as the bridge between end users and dev teams
-- 🌐 **Tech lead (volunteer) at AAEEG** — main website (membership, voting, admin), discord bot, documentation wiki, OSINT/CTF platform, and the whole self-hosted infrastructure
-- 🎮 Currently building **Talepixel**, a Hytale server project, and the tooling around it
+- 🛩️ **5 years in the French Air & Space Force** as IT analyst, project manager and developer: modernizing legacy business apps and bridging users and dev teams
+- 🌐 **Volunteer tech lead at AAEEG**: I build and run the association's whole web ecosystem, from the website to the infrastructure
+- 🎮 Currently building **Talepixel**, a Hytale server project
 - 🗣️ French · English · Polish
 
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nuxt,vue,ts,js,nodejs,tailwind&theme=dark" alt="Frontend & backend"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,githubactions,linux,py,unity&theme=dark" alt="Infra & tooling"/>
+  <img src="https://skillicons.dev/icons?i=nuxt,vue,ts,js,nodejs,tailwind,docker,nginx,cloudflare,githubactions,linux,py&perline=12&theme=dark" alt="Tech stack"/>
 </p>
 
-### Featured projects
+### Featured project
 
-| Project | Description |
-| --- | --- |
-| 🎄 **[discord-bot-example](https://github.com/TheCooookie/discord-bot-example)** | Open-source framework for seasonal Discord events — advent calendars, collection games, leaderboards |
+🎄 **[discord-bot-example](https://github.com/TheCooookie/discord-bot-example)**: open-source template for seasonal Discord events (advent calendars, collection games, leaderboards)
 
 ### GitHub activity
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=TheCooookie&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=TheCooookie&theme=github-dark-blue&hide_border=true&v=2" alt="GitHub streak"/>
+
+---
